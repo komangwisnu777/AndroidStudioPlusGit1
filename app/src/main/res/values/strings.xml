@@ -3,5 +3,5 @@
     <string name="judul">Latihan 1</string>
     <string name="tv_1">tekan tombol dibawah .....</string>
     <string name="btn_1">Tekan saya untuk merubah tulisan diatas</string>
-    <string name="btn_2">Tutup</string>
+    <string name="btn_2">Close App</string>
 </resources>
